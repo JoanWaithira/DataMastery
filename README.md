@@ -36,29 +36,25 @@ This repository replicates and adapts the methodologies of the research paper [�
 - Mapped campus land cover using QGIS, Google Earth, and in-situ observations.
 - Below is a more in-depth description of all the tools used in this analysis and their respective versions:
 
-1. **Google**  
-   - **Tool**: Google Earth Engine  
+1. **Google Earth Engine**  
    - **Version**: 2023  
    - **Description**: A powerful platform for geospatial analysis.  
    - **Developer**: Google LLC  
    - **Link**: [https://earthengine.google.com/](https://earthengine.google.com/)  
 
-2. **Microsoft Corporation**  
-   - **Tool**: Microsoft Excel for Microsoft 365  
+2. **Microsoft Excel for Microsoft 365**  
    - **Version**: Version 2412 Build 16.0.18324.20092 (2023)  
    - **Description**: Spreadsheet software used for data management and analysis.  
    - **Developer**: Microsoft  
    - **Link**: [https://www.microsoft.com](https://www.microsoft.com)  
 
-3. **OpenAI**  
-   - **Tool**: ChatGPT  
+3. **ChatGPT**  
    - **Version**: Version 4.0 (2024)  
    - **Description**: A large language model for generating text-based responses and analysis.  
    - **Developer**: OpenAI  
    - **Link**: [https://chat.openai.com](https://chat.openai.com)  
 
-4. **QGIS Development Team**  
-   - **Tool**: QGIS Geographic Information System  
+4. **QGIS Development Software**  
    - **Version**: Version 3.40.3 ("Bratislava") (2023)  
    - **Description**: Open-source GIS software for spatial data analysis and visualization.  
    - **Developer**: Open Source Geospatial Foundation Project  
@@ -117,8 +113,7 @@ Adjusted time periods to reflect Dutch sunrise and sunset:
 - **Winter:** Day: 8:00 AM – Night: 5:00 PM
 
 ### Satellite Data Selection:
-- Used **Sentinel-3** data instead of Landsat due to heavy cloud cover in winter months.
-- Acknowledged lower resolution in thermal accuracy compared to Landsat.
+- Used Landsat 
 
 ---
 
@@ -126,7 +121,6 @@ Adjusted time periods to reflect Dutch sunrise and sunset:
 
 1. Limited dataset with only four sensor points.
 2. Challenges with cloud coverage impacting satellite image quality.
-3. Sentinel-3’s lower thermal resolution affected fine-detail analysis.
 
 ---
 
