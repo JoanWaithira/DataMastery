@@ -34,6 +34,12 @@ This repository replicates and adapts the methodologies of the research paper [â
 ### 3. Data Preprocessing
 - Cleaned University of Twente sensor data.
 - Mapped campus land cover using QGIS, Google Earth, and in-situ observations.
+- Below is a more indepth description of all the tools used in this analysis and their respective versions.
+         1)  Google. (2023). Google Earth Engine [Computer software]. Google LLC. https://earthengine.google.com/
+         2) Microsoft Corporation. (2023). Microsoft Excel for Microsoft 365 (Version 2412 Build 16.0.18324.20092) [Computer software Microsoft. https://www.microsoft.com
+         3) OpenAI. (2024). ChatGPT (Version 4.0) [Large language model]. https://chat.openai.com
+         4) QGIS Development Team. (2023). QGIS geographic information system (Version 3.40.3, "Bratislava") [Computer software]. Open Source Geospatial Foundation Project. https://qgis.org
+
 
 ### 4. Adaptation and Replication
 - Translated and adapted R code into Python.
@@ -100,3 +106,5 @@ Adjusted time periods to reflect Dutch sunrise and sunset:
 ---
 
 
+## If you want to use any code or data from this repository, you can clone it and run the following command:
+git clone https://github.com/JoanWaithira/DataMastery.git
