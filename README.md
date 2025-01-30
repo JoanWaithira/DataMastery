@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository replicates and adapts the methodologies of the research paper [“Urban green spaces and variation in cooling in the humid tropics: The case of Paramaribo.”](https://doi.org/10.1016/j.ufug.2023.128111). The goal is to analyze the cooling effects of urban green spaces in the moderate maritime climate of the University of Twente campus, using adapted datasets and translated Python scripts.
+This repository replicates and adapts the methodologies of the research paper [“Urban green spaces and variation in cooling in the humid tropics: The case of Paramaribo.”](https://doi.org/10.1016/j.ufug.2023.128111). It is important to note that while the original research is reproducable, methodoligies will need to be adapted to account for variations in climate zones and terrains when applied to new study areas. To illustrate the reproducablity of the above research, the research methodologies were used to study the cooling effects of urban green spaces in the moderate maritime climate of the University of Twente campus in the Netherlands, using adapted datasets and translated Python scripts.
 
 ---
 
