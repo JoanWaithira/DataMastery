@@ -34,11 +34,38 @@ This repository replicates and adapts the methodologies of the research paper [â
 ### 3. Data Preprocessing
 - Cleaned University of Twente sensor data.
 - Mapped campus land cover using QGIS, Google Earth, and in-situ observations.
-- Below is a more indepth description of all the tools used in this analysis and their respective versions.
-         1)  Google. (2023). Google Earth Engine [Computer software]. Google LLC. https://earthengine.google.com/
-         2) Microsoft Corporation. (2023). Microsoft Excel for Microsoft 365 (Version 2412 Build 16.0.18324.20092) [Computer software Microsoft. https://www.microsoft.com
-         3) OpenAI. (2024). ChatGPT (Version 4.0) [Large language model]. https://chat.openai.com
-         4) QGIS Development Team. (2023). QGIS geographic information system (Version 3.40.3, "Bratislava") [Computer software]. Open Source Geospatial Foundation Project. https://qgis.org
+# Tools Used in Analysis
+
+Below is a more in-depth description of all the tools used in this analysis and their respective versions:
+
+1. **Google**  
+   - **Tool**: Google Earth Engine  
+   - **Version**: 2023  
+   - **Description**: A powerful platform for geospatial analysis.  
+   - **Developer**: Google LLC  
+   - **Link**: [https://earthengine.google.com/](https://earthengine.google.com/)  
+
+2. **Microsoft Corporation**  
+   - **Tool**: Microsoft Excel for Microsoft 365  
+   - **Version**: Version 2412 Build 16.0.18324.20092 (2023)  
+   - **Description**: Spreadsheet software used for data management and analysis.  
+   - **Developer**: Microsoft  
+   - **Link**: [https://www.microsoft.com](https://www.microsoft.com)  
+
+3. **OpenAI**  
+   - **Tool**: ChatGPT  
+   - **Version**: Version 4.0 (2024)  
+   - **Description**: A large language model for generating text-based responses and analysis.  
+   - **Developer**: OpenAI  
+   - **Link**: [https://chat.openai.com](https://chat.openai.com)  
+
+4. **QGIS Development Team**  
+   - **Tool**: QGIS Geographic Information System  
+   - **Version**: Version 3.40.3 ("Bratislava") (2023)  
+   - **Description**: Open-source GIS software for spatial data analysis and visualization.  
+   - **Developer**: Open Source Geospatial Foundation Project  
+   - **Link**: [https://qgis.org](https://qgis.org)  
+
 
 
 ### 4. Adaptation and Replication
