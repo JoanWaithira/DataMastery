@@ -34,9 +34,7 @@ This repository replicates and adapts the methodologies of the research paper [â
 ### 3. Data Preprocessing
 - Cleaned University of Twente sensor data.
 - Mapped campus land cover using QGIS, Google Earth, and in-situ observations.
-# Tools Used in Analysis
-
-Below is a more in-depth description of all the tools used in this analysis and their respective versions:
+- Below is a more in-depth description of all the tools used in this analysis and their respective versions:
 
 1. **Google**  
    - **Tool**: Google Earth Engine  
