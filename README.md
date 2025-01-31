@@ -4,6 +4,10 @@
 
 This repository replicates and adapts the methodologies of the research paper [“Urban green spaces and variation in cooling in the humid tropics: The case of Paramaribo.”](https://doi.org/10.1016/j.ufug.2023.128111). It is important to note that while the original research is reproducable, methodoligies will need to be adapted to account for variations in climate zones and terrains when applied to new study areas. To illustrate the reproducablity of the above research, the research methodologies were used to study the cooling effects of urban green spaces in the moderate maritime climate of the University of Twente campus in the Netherlands, using adapted datasets and translated Python scripts.
 
+Click the following links to view:
+1. [Paramaribo R files](https://github.com/JoanWaithira/DataMastery/tree/master/Original%20data/Challenge-Cooling-Paramaribo-UT/R%20Code) 
+2. [Paramaribo R files translated to Python](https://github.com/JoanWaithira/DataMastery/tree/master/Original%20data/Challenge-Cooling-Paramaribo-UT/Original%20Translated%20Python%20Code)
+3. [Adapted UTwente Python Code](https://github.com/JoanWaithira/DataMastery/tree/master/UT%20CampusData/Reproduced%20Code)
 ---
 
 ## Objectives
